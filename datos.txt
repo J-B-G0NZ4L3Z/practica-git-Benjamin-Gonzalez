@@ -1,1 +1,2 @@
-El archivo fue modificado desde github
+El archivo fue modificado desde GitHub 
+Esta linea fue modificada desde la computadora
